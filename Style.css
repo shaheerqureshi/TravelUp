@@ -101,7 +101,7 @@ a:hover{
 }
 
 .solo-wrapper{
-    background-image: url("./island.jpg");
+    background-image:url("./island.jpg");
     display: inline-block;
     height: 400px;
     width: 350px;
@@ -121,10 +121,10 @@ a:hover{
 
 
 #second{
-    background-image: url("./trees.jpg");
+    background-image:url("./trees.jpg");
 }
 #third{
-    background-image: url("./turkey.jpg");
+    background-image:url("./turkey.jpg");
 }
 
 .abc{
