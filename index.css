@@ -38,7 +38,7 @@ a:hover{
     color: salmon;
 }
 .wrapper{
-    background-image:url("../img/cover3a.jpg") ;
+    background-image:url("./img/cover3a.jpg") ;
     height: 700px;
     background-size: cover;
     background-repeat: no-repeat;
